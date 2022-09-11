@@ -1,0 +1,1 @@
+use the scripts in src/scripts top compile and run the project
